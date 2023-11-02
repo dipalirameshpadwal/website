@@ -1,1 +1,5 @@
-Imfromgithub
+a = 10
+b = 20
+def add():
+   result = a+b
+   return result
